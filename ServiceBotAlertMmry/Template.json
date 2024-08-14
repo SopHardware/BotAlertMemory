@@ -1,0 +1,14 @@
+{
+  "ServiceConfig": {
+    "AppName1": "ServiceBox.exe",
+    "IsActive":  true
+  },
+  "ApiConfig": {
+    "SlackWebhookUrl": "https://api.example.com",
+    "DelayAlert": 5 
+  },
+  "MemorySettings": {
+    "MemoryUsageLimit": 12000,
+    "AlertThreshold": 80
+  }
+}

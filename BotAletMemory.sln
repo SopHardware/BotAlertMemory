@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotAletMemory", "BotAletMemory\BotAletMemory.csproj", "{0AB6DCDC-3692-410E-BCE8-65718F52FBFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBotMemory", "ServiceBotMemory\ServiceBotMemory.csproj", "{2509C897-DAB2-4E6E-AD40-4556C0003D5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AB6DCDC-3692-410E-BCE8-65718F52FBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB6DCDC-3692-410E-BCE8-65718F52FBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB6DCDC-3692-410E-BCE8-65718F52FBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB6DCDC-3692-410E-BCE8-65718F52FBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2509C897-DAB2-4E6E-AD40-4556C0003D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2509C897-DAB2-4E6E-AD40-4556C0003D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2509C897-DAB2-4E6E-AD40-4556C0003D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2509C897-DAB2-4E6E-AD40-4556C0003D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DB144EE-88B9-4C57-8B7C-73111ED076BD}
+	EndGlobalSection
+EndGlobal
